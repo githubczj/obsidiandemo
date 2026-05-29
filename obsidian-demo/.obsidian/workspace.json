@@ -11,10 +11,14 @@
             "id": "bf124a31475a609f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "惯性定律.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "惯性定律"
             }
           },
           {
@@ -160,12 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "惯性定律.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "惯性定律 的大纲"
             }
           },
           {
@@ -197,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "538c5a52e2958a55",
+  "active": "bf124a31475a609f",
   "lastOpenFiles": [
     "惯性定律.md",
     "三大运动定律.md",
