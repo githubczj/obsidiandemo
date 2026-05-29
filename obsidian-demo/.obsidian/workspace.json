@@ -25,14 +25,14 @@
             "id": "69440701322ae460",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "obsidian-demo/obsidian 安装 git 插件.md",
-                "bFile": "obsidian-demo/obsidian 安装 git 插件.md",
-                "aRef": ""
+                "file": "Obsidian Git 插件安装与配置完全指南.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: obsidian 安装 git 插件  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Obsidian Git 插件安装与配置完全指南"
             }
           },
           {
@@ -179,12 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Obsidian Git 插件安装与配置完全指南.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Obsidian Git 插件安装与配置完全指南 的大纲"
             }
           },
           {
@@ -202,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 907.5
+    "width": 642.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,6 +220,8 @@
   "active": "69440701322ae460",
   "lastOpenFiles": [
     "obsidian 安装 git 插件.md",
+    "Obsidian Git 插件安装与配置完全指南.md",
+    "obsidian.md",
     "团标冲突分析报告.md",
     "三大运动定律.md",
     "惯性定律.md",
@@ -226,7 +229,6 @@
     "未命名.base",
     "未命名",
     "艾萨克·牛顿.md",
-    "obsidian.md",
     "未命名.md",
     "欢迎.md"
   ]
